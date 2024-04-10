@@ -1,0 +1,7 @@
+[submodule "blogpessoal/themes/hugo-coder"]
+	path = blogpessoal/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "blogpessoal/public"]
+	path = blogpessoal/public
+	url = git@github.com:erdrborges/erdrborges.github.io.git
+	branch = main
