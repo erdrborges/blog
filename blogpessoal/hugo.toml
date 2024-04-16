@@ -6,7 +6,7 @@ theme = "hugo-coder"
 
 paginate = 20
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
